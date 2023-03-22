@@ -207,7 +207,7 @@ const valorInput= ()=>{
             primeraMatriz.map((item, i) => {
 
                 nuevoElemet.push(parseInt(mtriz1[i] + segundaMatriz[index][i])) ;
-                console.log(segundaMatriz[index][i])
+                // console.log(segundaMatriz[index][i])
 
             });
     
